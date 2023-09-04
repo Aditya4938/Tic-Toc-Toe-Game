@@ -91,6 +91,7 @@ function gameOver() {
       boxes[firstPos].classList.add("green");
       boxes[secondPos].classList.add("green");
       boxes[thirdPos].classList.add("green");
+      cnt=0;
     }
   }
 }
